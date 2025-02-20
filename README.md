@@ -1,0 +1,2 @@
+# SchoolJava
+Školní aplikace 
